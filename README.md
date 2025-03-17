@@ -1,1 +1,1 @@
-# Review-Sentiment-Analysis
+# The Sentiment Analysis Project is designed to analyze client reviews and determine whether the sentiment expressed in the reviews is positive or negative. This project helps businesses understand customer feedback and improve their services based on the sentiment analysis.
